@@ -1,0 +1,88 @@
+/*============ 
+form styles 
+==============*/
+form fieldset {
+	padding: 1em;
+	font: 80%/1 sans-serif;
+	border: 1px solid #000000;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	box-shadow: 3px 3px 6px #dddddd;
+	-moz-box-shadow: 3px 3px 6px #dddddd;
+	-webkit-box-shadow: 3px 3px 6px #dddddd;
+}
+form fieldset label {
+	float: left;
+	width: 15%;
+	margin-right: 0.5em;
+	padding-top: 0.2em;
+	text-align: right;
+	font-weight: bold;
+}
+form fieldset legend {
+	padding: 0.2em 0.5em;
+	border: 1px solid #000000;
+	color: #ffffff;
+	font-size: 90%;
+	text-align: right;
+	font-variant: small-caps;
+	background-color: #000000;
+}
+.fb {
+	background-image: url('form-bg.jpg');
+	background-repeat: repeat;
+}
+.button {
+	font: normal .9em Verdana;
+	height: 22px;
+	border: 1px solid #000000;
+	background-color: #000000;
+	color: white;
+}
+input:focus {
+	border: 2px solid #980E10;
+}
+/*=======================================
+error page formatting contact page script
+========================================*/
+.error-page-heading1 {
+	font-family: "Times New Roman";
+	color: #564c66;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.error-page-heading2 {
+	font-family: "Times New Roman";
+	color: #564c66;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.error-page-line-closing {
+	font-family: "Times New Roman";
+	color: #0066CC;
+	font-size: .9em;
+	font-weight: bold;
+}
+.error-page-line-opening {
+	font-family: "Times New Roman";
+	color: #0066CC;
+	font-size: .9em;
+	font-weight: bold;
+}
+.error-msg {
+	font-family: "Times New Roman";
+	color: #CC3300;
+	font-size: 1em;
+	font-weight: bold;
+}
+.error-page-footer {
+	font-family: "Times New Roman";
+	color: #000000;
+	font-size: .8em;
+	font-weight: bold;
+}
+.huggins {
+	font-size: small;
+	font-style: italic;
+}

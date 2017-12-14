@@ -1,0 +1,1215 @@
+﻿a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+#ntentersubheading2 p,
+#ngentersubheading2 p,
+#ntenterheadinghere1 p,
+#stentersubheading2 p,
+#ntentersubheading1 p,
+#ntenterheadinghere3 p,
+#ngenterheadinghere3 p,
+#ntentersubheading3 p,
+#ngentersubheading3 p,
+#ngentersubheading p,
+#ntenterheadinghere2 p,
+#ngenterheadinghere2 p,
+#stentersubheading p  {
+   font: 30px/36px Arial;
+   margin: 0px;
+   text-align: center;
+}
+
+#tblog2button a:hover,
+#bottom1menu li a:hover,
+#hprofilebutton a:hover,
+#tblog3button a:hover,
+#ghelmdescbutton a:hover,
+#hnewsbutton a:hover,
+#hhelmdescbutton a:hover,
+#hcontactbutton a:hover,
+#hmissionbutton a:hover,
+#tblog1button a:hover,
+#bottom2menu li a:hover  {
+   font-style: italic;
+}
+
+#hmissionbutton a,
+#hcontactbutton a,
+#hprofilebutton a,
+#hnewsbutton a,
+#tblog1button a,
+#turnaudioonbutton a,
+#ghelmdescbutton a,
+#hhelmdescbutton a,
+#tblog2button a,
+#tblog3button a,
+#turnaudiooffbutton a  {
+   font-style: Normal;
+   display: block;
+   width: 100%;
+   text-decoration: none;
+}
+
+#pid11audition,
+#skillful,
+#contactus,
+#newtxtpgdummy,
+#pid1home,
+#recruit,
+#bioresum,
+#inform,
+#pid9services,
+#sndtest1,
+#pid14toc,
+#pc2conso,
+#credits,
+#digaudio,
+#newgrphpgdummy,
+#homeaudioenabled  {
+   margin: 0px auto 0px auto;
+   width: 782px;
+   position: relative;
+}
+
+#ngtxtbody3 p,
+#sttxtbody4 p,
+#sttxtbody1 p,
+#ngtxtbody2 p,
+#ntxtbody3 p,
+#ngtxtbody1 p,
+#stimgcaption p,
+#ntxtbody2 p,
+#sttxtbody3b p,
+#ntxtbody1 p,
+#sttxtbody3a p,
+#sttxtbody2 p  {
+   font: 12px/14px "Times New Roman";
+   margin: 0px;
+   color: #1A1D02;
+   text-align: left;
+}
+
+#tpc2consolebutton a:hover,
+#tskillfulbutton a:hover,
+#tcreditsbutton a:hover,
+#tservicesbutton a:hover,
+#tdigitalaudbutton a:hover  {
+   background-position: -166px 0%;
+}
+
+#ngtxtbody3,
+#ngtxtbody2,
+#ntenterheadinghere3,
+#ntenterheadinghere2,
+#ntenterheadinghere1,
+#ntxtbody3  {
+   visibility: visible;
+   position: absolute;
+   left: 59px;
+   z-index: 3;
+   width: 637px;
+}
+
+#ngenterheadinghere p,
+#stenterheadinghere p,
+#stenterheadinghere3 p,
+#stenterheadinghere2 p  {
+   font: 30px/36px Arial;
+   margin: 0px;
+   color: #554F4D;
+   text-align: left;
+}
+
+#tskillfulbutton a,
+#tpc2consolebutton a,
+#tservicesbutton a,
+#tdigitalaudbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 34px;
+   width: 166px;
+   background-position: 0% 0px;
+   font-size: 34px;
+   line-height: 34px;
+}
+
+#ntentersubheading3,
+#ngentersubheading3,
+#ntentersubheading2,
+#ntentersubheading1  {
+   visibility: visible;
+   position: absolute;
+   left: 59px;
+   z-index: 3;
+   width: 634px;
+}
+
+#id124hcontactpopup p,
+#id128hmissionpopup p,
+#tprofile p,
+#id126hprofilepopup p  {
+   font: bold 14px/17px Arial;
+   margin: 0px;
+   color: #521504;
+   text-align: left;
+}
+
+#tauditionbutton a,
+#tcreditsbutton a,
+#tsndtestbutton a,
+#id36tdemoinfobutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 26px;
+   width: 165px;
+   background-position: 0% 0px;
+   font-size: 26px;
+   line-height: 26px;
+}
+
+#tsndtestbutton a:hover,
+#tauditionbutton a:hover,
+#id36tdemoinfobutton a:hover  {
+   background-position: -165px 0%;
+}
+
+#tableofcontentstitle p,
+#ntenterpagetitlehere p,
+#ngenterpagetitlehere p  {
+   font: 24px/24px Arial;
+   margin: 0px;
+   color: #BB9A02;
+   text-align: center;
+}
+
+#ntenterpagetitlehere,
+#ngenterpagetitlehere,
+#tableofcontentstitle  {
+   visibility: visible;
+   position: absolute;
+   top: 85px;
+   z-index: 2;
+   width: 632px;
+}
+
+#hmissionbutton,
+#hcontactbutton,
+#hprofilebutton,
+#hnewsbutton  {
+   font: 24px/33px Arial;
+   padding-top: 4px;
+   text-align: justify;
+   visibility: visible;
+   position: absolute;
+   left: 564px;
+   z-index: 5;
+   width: 145px;
+   height: 33px;
+}
+
+#id123hcontactpopup,
+#id127hmissionpopup,
+#id125hprofilepopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 38px;
+   top: 264px;
+   width: 707px;
+   background-repeat: no-repeat;
+}
+
+#rpgtrntabbutton a:hover,
+#lpgtrntabbutton a:hover  {
+   background-position: -35px 0%;
+}
+
+#rpgtrnbutton a:hover,
+#lpgtrnbutton a:hover  {
+   background-position: -82px 0%;
+}
+
+#ngenterheadinghere3,
+#ngenterheadinghere2  {
+   visibility: visible;
+   position: absolute;
+   left: 58px;
+   z-index: 3;
+   width: 637px;
+}
+
+#tblogtxt3 p,
+#tblogtxt2 p,
+#tblogtxt1 p  {
+   font: 12px/12px Arial;
+   margin: 0px;
+   color: #2B2401;
+   text-align: left;
+}
+
+#rpgtrntabbutton a,
+#lpgtrntabbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 167px;
+   width: 35px;
+   background-position: 0% 0px;
+   font-size: 167px;
+   line-height: 167px;
+}
+
+#rpgtrntabrollover,
+#lpgtrntabrollover  {
+   visibility: hidden;
+   position: absolute;
+   top: 246px;
+   z-index: 3;
+   width: 35px;
+   height: 167px;
+   background-repeat: no-repeat;
+}
+
+#bottom2menu li a,
+#bottom1menu li a  {
+   font-style: Normal;
+   text-decoration: none;
+   color: #460101;
+   height: 100%;
+   display: block;
+}
+
+#rpgtrntabbutton,
+#lpgtrntabbutton  {
+   visibility: hidden;
+   position: absolute;
+   top: 246px;
+   z-index: 2;
+   width: 35px;
+   height: 167px;
+}
+
+#hhelmdescbutton,
+#ghelmdescbutton  {
+   font: bold 18px/30px Arial;
+   letter-spacing: 1px;
+   text-align: center;
+   visibility: visible;
+   position: absolute;
+   left: 48px;
+   top: 31px;
+   width: 688px;
+   height: 30px;
+}
+
+#bottom1menu li,
+#bottom2menu li  {
+   height: 100%;
+   display: block;
+   float: left;
+   margin: 0px;
+}
+
+#lpgtrnbutton a,
+#rpgtrnbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 638px;
+   width: 82px;
+   background-position: 0% 0px;
+   font-size: 638px;
+   line-height: 638px;
+}
+
+#audioandmusicdesignsrvbottom p  {
+   font: 14px/24px Arial;
+   margin: 0px;
+   color: #F2FCF9;
+   text-align: right;
+}
+
+#audioandmusicdesignsrvbottom  {
+   border: 0px none #000000;
+   margin-top: 0px;
+   margin-left: 0px;
+   visibility: visible;
+   position: absolute;
+   left: 549px;
+   top: 233px;
+   z-index: 6;
+   width: 165px;
+}
+
+#lpgtrnbutton,
+#rpgtrnbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 118px;
+   z-index: 2;
+   width: 82px;
+   height: 638px;
+}
+
+#audioandmusicdesignsrvtop p  {
+   font: 18px/24px Arial;
+   margin: 0px;
+   color: #F2FCF9;
+   text-align: left;
+}
+
+#id40tdemoinfobutton a:hover  {
+   background-position: -157px 0%;
+}
+
+#tblog1button,
+#tblog2button  {
+   font: bold 14px/14px Arial;
+   text-align: left;
+   visibility: visible;
+   position: absolute;
+   left: 511px;
+   z-index: 3;
+   width: 219px;
+   height: 27px;
+}
+
+#audioandmusicdesignsrvtop  {
+   visibility: visible;
+   position: absolute;
+   left: 72px;
+   top: 266px;
+   z-index: 3;
+   width: 625px;
+}
+
+#tbioresumbutton a:hover  {
+   background-position: -163px 0%;
+}
+
+#ngswfplaceholderxmedia  {
+   visibility: visible;
+   position: absolute;
+   left: 56px;
+   top: 147px;
+   z-index: 3;
+   width: 360px;
+   height: 265px;
+}
+
+#id36tdemoinfobutton a  {
+   background-image: url(tocmedia/id36tdemoinfobutton.gif);
+}
+
+#ntxtbody2,
+#ntxtbody1  {
+   visibility: visible;
+   position: absolute;
+   left: 60px;
+   z-index: 3;
+   width: 637px;
+}
+
+#id40tdemoinfobutton a  {
+   background: url(tocmedia/id40tdemoinfobutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 35px;
+   width: 157px;
+   font-size: 35px;
+   line-height: 35px;
+}
+
+#ntenterheadinghere1 p  {
+   color: #554F4D;
+}
+
+#ntenterheadinghere3 p  {
+   color: #554F4D;
+}
+
+#ntenterheadinghere2 p  {
+   color: #554F4D;
+}
+
+#ngenterheadinghere3 p  {
+   color: #554F4D;
+}
+
+#ngenterheadinghere2 p  {
+   color: #554F4D;
+}
+
+#turnaudiooffbutton a  {
+   color: #F2FCF9;
+}
+
+#ntentersubheading1 p  {
+   color: #667149;
+}
+
+#ntentersubheading3 p  {
+   color: #667149;
+}
+
+#ngentersubheading3 p  {
+   color: #667149;
+}
+
+#stentersubheading2 p  {
+   text-align: left;
+   color: #667149;
+}
+
+#ngentersubheading2 p  {
+   color: #667149;
+}
+
+#ntentersubheading2 p  {
+   color: #667149;
+}
+
+#ngenterpagetitlehere  {
+   left: 70px;
+}
+
+#tableofcontentstitle  {
+   left: 62px;
+}
+
+#ntenterpagetitlehere  {
+   left: 71px;
+}
+
+#ngenterheadinghere3  {
+   top: 667px;
+}
+
+#id36tdemoinfobutton  {
+   visibility: visible;
+   position: absolute;
+   left: 507px;
+   top: 219px;
+   z-index: 12;
+   width: 165px;
+   height: 26px;
+}
+
+#turnaudioonbutton a  {
+   color: #F2FCF9;
+}
+
+#tdigitalaudbutton a  {
+   background-image: url(tocmedia/tdigitalaudbutton.gif);
+}
+
+#ngenterheadinghere2  {
+   top: 417px;
+}
+
+#tpc2consolebutton a  {
+   background-image: url(tocmedia/tpc2consolebutton.gif);
+}
+
+#ntenterheadinghere2  {
+   top: 417px;
+}
+
+#id40tdemoinfobutton  {
+   visibility: visible;
+   position: absolute;
+   left: 510px;
+   top: 158px;
+   z-index: 14;
+   width: 157px;
+   height: 35px;
+}
+
+#ntenterheadinghere1  {
+   top: 167px;
+}
+
+#ntenterheadinghere3  {
+   top: 667px;
+}
+
+#ngentersubheading p  {
+   text-align: left;
+   color: #667149;
+}
+
+#tnewsbutton a:hover  {
+   background-position: -162px 0%;
+}
+
+#stentersubheading p  {
+   text-align: left;
+   color: #667149;
+}
+
+#ngenterheadinghere  {
+   visibility: visible;
+   position: absolute;
+   left: 421px;
+   top: 152px;
+   z-index: 4;
+   width: 293px;
+}
+
+#id125hprofilepopup  {
+   height: 284px;
+   z-index: 8;
+}
+
+#ngentersubheading3  {
+   top: 699px;
+   left: 58px;
+}
+
+#ntentersubheading3  {
+   top: 699px;
+}
+
+#id127hmissionpopup  {
+   height: 138px;
+   z-index: 10;
+}
+
+#id123hcontactpopup  {
+   height: 138px;
+}
+
+#ngentersubheading2  {
+   visibility: visible;
+   position: absolute;
+   left: 58px;
+   top: 449px;
+   z-index: 3;
+   width: 634px;
+}
+
+#ntentersubheading1  {
+   top: 199px;
+}
+
+#id126hprofilepopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 49px;
+   top: 270px;
+   z-index: 9;
+   width: 682px;
+}
+
+#id128hmissionpopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 69px;
+   top: 290px;
+   z-index: 11;
+   width: 646px;
+}
+
+#ntentersubheading2  {
+   top: 449px;
+}
+
+#id124hcontactpopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 69px;
+   top: 280px;
+   width: 646px;
+}
+
+#tbioresumbutton a  {
+   background: url(tocmedia/tbioresumbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 42px;
+   width: 163px;
+   font-size: 42px;
+   line-height: 42px;
+}
+
+#rpgtrntabbutton a  {
+   background-image: url(skillfulmedia/rpgtrntabbutton.gif);
+}
+
+#tservicesbutton a  {
+   background-image: url(tocmedia/tservicesbutton.gif);
+}
+
+#lpgtrntabbutton a  {
+   background-image: url(skillfulmedia/lpgtrntabbutton.gif);
+}
+
+#lpgtrntabrollover  {
+   background-image: url(skillfulmedia/lpgtrntabrollover.gif);
+   left: 0px;
+}
+
+#tskillfulbutton a  {
+   background-image: url(tocmedia/tskillfulbutton.gif);
+}
+
+#ghelmdescbutton a  {
+   color: #E78A05;
+}
+
+#hhelmdescbutton a  {
+   color: #CCF8EB;
+}
+
+#tdigitalaudbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 373px;
+   z-index: 7;
+   width: 166px;
+   height: 34px;
+}
+
+#ngentersubheading  {
+   visibility: visible;
+   position: absolute;
+   left: 421px;
+   top: 182px;
+   z-index: 3;
+   width: 293px;
+}
+
+#tpc2consolebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 441px;
+   z-index: 5;
+   width: 166px;
+   height: 34px;
+}
+
+#rpgtrntabrollover  {
+   background-image: url(skillfulmedia/rpgtrntabrollover.gif);
+   left: 747px;
+}
+
+#tauditionbutton a  {
+   background-image: url(tocmedia/tauditionbutton.gif);
+}
+
+#tsndtestbutton a  {
+   background-image: url(tocmedia/tsndtestbutton.gif);
+}
+
+#tcreditsbutton a  {
+   width: 166px;
+   background-image: url(tocmedia/tcreditsbutton.gif);
+}
+
+#formusicandsfx p  {
+   font: bold 18px/22px Arial;
+   margin: 0px;
+   color: #521504;
+   text-align: right;
+}
+
+#hcontactbutton a  {
+   color: #E78A05;
+}
+
+#hmissionbutton a  {
+   color: #E78A05;
+}
+
+#hprofilebutton a  {
+   color: #E7BF05;
+}
+
+#lcdcontentxmedia  {
+   visibility: visible;
+   position: absolute;
+   left: 94px;
+   top: 432px;
+   z-index: 5;
+   width: 360px;
+   height: 203px;
+}
+
+#tauditionbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 509px;
+   top: 193px;
+   z-index: 13;
+   width: 165px;
+   height: 26px;
+}
+
+#yourrealsourceg  {
+   background: url(homemedia/yourrealsourceg.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 551px;
+   top: 419px;
+   z-index: 7;
+   width: 167px;
+   height: 16px;
+}
+
+#rpgtrntabbutton  {
+   left: 747px;
+}
+
+#ghelmdescbutton  {
+   z-index: 2;
+}
+
+#lpgtrntabbutton  {
+   left: 0px;
+}
+
+#tservicesbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 339px;
+   z-index: 8;
+   width: 166px;
+   height: 34px;
+}
+
+#tbioresumbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 271px;
+   z-index: 10;
+   width: 163px;
+   height: 42px;
+}
+
+#hhelmdescbutton  {
+   z-index: 6;
+}
+
+#tskillfulbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 407px;
+   z-index: 6;
+   width: 166px;
+   height: 34px;
+}
+
+#rpgtrnbutton a  {
+   background-image: url(skillfulmedia/rpgtrnbutton.gif);
+}
+
+#formusicandsfx  {
+   visibility: visible;
+   position: absolute;
+   left: 464px;
+   top: 439px;
+   z-index: 6;
+   width: 254px;
+}
+
+#tblog2button a  {
+   color: #BB9A02;
+}
+
+#tblog3button a  {
+   color: #BB9A02;
+}
+
+#hcontactbutton  {
+   top: 585px;
+}
+
+#tsndtestbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 245px;
+   z-index: 11;
+   width: 165px;
+   height: 26px;
+}
+
+#lpgtrnbutton a  {
+   background-image: url(skillfulmedia/lpgtrnbutton.gif);
+}
+
+#tcreditsbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 313px;
+   z-index: 9;
+   width: 166px;
+   height: 26px;
+}
+
+#hmissionbutton  {
+   top: 517px;
+}
+
+#tblog1button a  {
+   color: #BB9A02;
+}
+
+#hprofilebutton  {
+   top: 551px;
+}
+
+#tnewsbutton a  {
+   background: url(tocmedia/tnewsbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 471px;
+   width: 162px;
+   font-size: 471px;
+   line-height: 471px;
+}
+
+#hnewsbutton a  {
+   color: #E7BF05;
+}
+
+#tblog1button  {
+   top: 674px;
+}
+
+#rpgtrnbutton  {
+   left: 659px;
+}
+
+#homeinterior  {
+   background: url(homemedia/homeinterior.jpg) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 7px;
+   top: 0px;
+   z-index: 1;
+   width: 764px;
+   height: 1013px;
+}
+
+#tblog3button  {
+   font: bold 14px/15px Arial;
+   text-align: left;
+   visibility: visible;
+   position: absolute;
+   left: 511px;
+   top: 812px;
+   z-index: 2;
+   width: 220px;
+   height: 29px;
+}
+
+#tblog2button  {
+   top: 745px;
+}
+
+#lpgtrnbutton  {
+   left: 38px;
+}
+
+#hnewsbutton  {
+   top: 619px;
+}
+
+#tblogdept p  {
+   font: 18px/18px Arial;
+   margin: 0px;
+   color: #E7BF05;
+   text-align: left;
+}
+
+#bottom1menu  {
+   font: bold 14px/24px Arial;
+   height: 24px;
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   list-style: none;
+   color: #460101;
+   position: absolute;
+   left: 48px;
+   top: 914px;
+   z-index: 2;
+   width: 688px;
+}
+
+#tnewsbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 507px;
+   top: 153px;
+   z-index: 3;
+   width: 162px;
+   height: 471px;
+}
+
+#hshapeupper  {
+   background: url(homemedia/hshapeupper.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 468px;
+   top: 410px;
+   z-index: 6;
+   width: 258px;
+   height: 29px;
+}
+
+#eggnobutton  {
+   background: url(tocmedia/eggnobutton.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 506px;
+   top: 475px;
+   z-index: 4;
+   width: 164px;
+   height: 80px;
+}
+
+#bottom2menu  {
+   font: bold 14px/22px Arial;
+   height: 22px;
+   text-align: center;
+   margin: 0px;
+   padding: 0px;
+   list-style: none;
+   color: #460101;
+   position: absolute;
+   left: 48px;
+   top: 940px;
+   z-index: 2;
+   width: 687px;
+}
+
+#hshapelower  {
+   background: url(homemedia/hshapelower.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 468px;
+   top: 437px;
+   z-index: 5;
+   width: 258px;
+   height: 29px;
+}
+
+#ngtxtbody3  {
+   top: 740px;
+}
+
+#trudysfoto  {
+   background: url(tocmedia/trudysfoto.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 55px;
+   top: 164px;
+   z-index: 3;
+   width: 368px;
+   height: 268px;
+}
+
+#tprofile p  {
+   padding-bottom: 12px;
+   color: #060100;
+}
+
+#ngtxtbody1  {
+   visibility: visible;
+   position: absolute;
+   left: 422px;
+   top: 225px;
+   z-index: 3;
+   width: 296px;
+}
+
+#ngtxtbody2  {
+   top: 490px;
+}
+
+#headerbars  {
+   background: url(skillfulmedia/headerbars.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 40px;
+   top: 109px;
+   z-index: 3;
+   width: 666px;
+   height: 27px;
+}
+
+#tshapeblog  {
+   visibility: visible;
+   position: absolute;
+   left: 510px;
+   top: 644px;
+   z-index: 3;
+   width: 233px;
+   height: 22px;
+   background-color: #181615;
+   background-image: none;
+}
+
+#tblogdept  {
+   visibility: visible;
+   position: absolute;
+   left: 517px;
+   top: 646px;
+   z-index: 4;
+   width: 219px;
+}
+
+#ntxtbody3  {
+   top: 740px;
+   left: 60px;
+}
+
+#ntxtbody1  {
+   top: 240px;
+}
+
+#tblogtxt1  {
+   visibility: visible;
+   position: absolute;
+   left: 537px;
+   top: 704px;
+   z-index: 3;
+   width: 201px;
+}
+
+#ntxtbody2  {
+   top: 490px;
+}
+
+#tblogtxt2  {
+   visibility: visible;
+   position: absolute;
+   left: 537px;
+   top: 776px;
+   z-index: 2;
+   width: 201px;
+}
+
+#interior2  {
+   background: url(skillfulmedia/interior2.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 9px;
+   top: 0px;
+   z-index: 1;
+   width: 760px;
+   height: 1013px;
+}
+
+#tblogtxt3  {
+   visibility: visible;
+   position: absolute;
+   left: 537px;
+   top: 843px;
+   z-index: 2;
+   width: 194px;
+}
+
+#tprofile  {
+   visibility: visible;
+   position: absolute;
+   left: 51px;
+   top: 444px;
+   z-index: 3;
+   width: 395px;
+}
+
+#hshape1  {
+   border: 0px none #000000;
+   visibility: visible;
+   margin-top: 0px;
+   margin-left: 0px;
+   position: absolute;
+   left: 555px;
+   top: 498px;
+   z-index: 4;
+   width: 170px;
+   height: 180px;
+   background-repeat: no-repeat;
+}
+
+#lcdmon  {
+   visibility: visible;
+   position: absolute;
+   left: 77px;
+   top: 406px;
+   z-index: 4;
+   width: 392px;
+   height: 261px;
+   background-repeat: no-repeat;
+}
+
+#board  {
+   visibility: visible;
+   position: absolute;
+   left: 31px;
+   top: 658px;
+   z-index: 3;
+   width: 622px;
+   height: 233px;
+   background-repeat: no-repeat;
+}
+
+#hlogo  {
+   background: url(homemedia/hlogo.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 586px;
+   top: 127px;
+   z-index: 3;
+   width: 127px;
+   height: 99px;
+}
+
+#prog  {
+   background: url(homemedia/prog.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 325px;
+   top: 69px;
+   z-index: 5;
+   width: 236px;
+   height: 173px;
+}
+
+#elmg  {
+   background: url(homemedia/elmg.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 152px;
+   top: 80px;
+   z-index: 4;
+   width: 201px;
+   height: 165px;
+}
+
+#hg  {
+   visibility: visible;
+   position: absolute;
+   left: 72px;
+   top: 75px;
+   z-index: 3;
+   width: 91px;
+   height: 175px;
+   background-repeat: no-repeat;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background: #FFD9CE url(skillfulmedia/exteriortile.gif) center top repeat;
+}
+

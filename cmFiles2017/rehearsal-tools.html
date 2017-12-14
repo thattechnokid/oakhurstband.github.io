@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>&#128274 Log In</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+  </head>
+  <body>
+
+    <h2>Log In Below</h2> <br>
+    
+    <form>
+      <label>OCCB Musicians-ONLY Password</label>
+      <input type="password" name="passwordInput" id="passwordInput" autofocus></input>
+      <br><br>
+      <button onclick="login();" class="loginButton">Log In</button>
+    </form>
+    
+    <script type="text/javascript">
+    //-----------Beginning of Login Function--------------
+        function login(){
+        var passwordPossibility = document.getElementById('passwordInput').value;
+        var correct = "veritas2";
+    if (passwordPossibility == correct){
+    console.log('password matched');
+    alert("CORRECT!! ... You Are Now Being Logged In");
+    window.open("http://www.oakhurstband.org/cmFiles2017/protected.html");
+  } else{
+    alert("Incorrect Password... Please Try Again");
+  }
+}
+ //--------------END of Login Function--------------------
+    
+    </script>
+  </body>
+</html>
